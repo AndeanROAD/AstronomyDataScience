@@ -1,4 +1,4 @@
-Syllabus for a two week course. 
+#Syllabus for a two-week Data Science in Astronomy course
 
 Assumptions
 * 6 hours/day, 5 days/week.  
@@ -16,3 +16,7 @@ Day 7. Supervised Learning. Regression. Bayesian methods.
 Day 8. Supervised Learning. Classification. Support Vector Machines.  
 Day 9. Supervised Learning. Classification. Trees and random forests.  
 Day 10. Project.  
+
+Notes:
+* Based on the [http://www.astroml.org/index.html](AstroML: Machine Learning and Data Mining for Astronomy) book/library.
+* The closest Coursera course is []()
