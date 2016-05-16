@@ -18,5 +18,5 @@ Day 9. Supervised Learning. Classification. Trees and random forests.
 Day 10. Project.  
 
 Notes:
-* Based on the [http://www.astroml.org/index.html](AstroML: Machine Learning and Data Mining for Astronomy) book/library.
-* The closest Coursera course is []()
+* Based on the [AstroML: Machine Learning and Data Mining for Astronomy](http://www.astroml.org/index.html)  book/library.
+* The closest Coursera course from the [JHU Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) is Course 8: Practical Machine Learning.
